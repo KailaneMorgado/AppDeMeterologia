@@ -73,6 +73,7 @@
             this.picboxClima.Location = new System.Drawing.Point(190, 196);
             this.picboxClima.Name = "picboxClima";
             this.picboxClima.Size = new System.Drawing.Size(211, 192);
+            this.picboxClima.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
             this.picboxClima.TabIndex = 3;
             this.picboxClima.TabStop = false;
             // 
